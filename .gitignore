@@ -3,6 +3,7 @@ obj/
 
 # User-specific files
 *.user
+*.csproj.user
 *.suo
 *.userosscache
 *.sln.docstates
