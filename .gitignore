@@ -16,6 +16,8 @@ obj/
 *.log
 *.tmp
 *.temp
+__pycache__/
+*.pyc
 
 # Cursor / local agent artifacts
 .cursor/
