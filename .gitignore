@@ -1,0 +1,21 @@
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.DotSettings.user
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Cursor / local agent artifacts
+.cursor/
